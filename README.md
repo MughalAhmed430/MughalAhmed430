@@ -24,9 +24,13 @@
   <a href="https://instagram.com/anees._24x">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:ahmedanees430@gmail.com">
+  <a href="mailto:ahmedanees430@gmail.com?subject=Contact%20from%20GitHub&body=Hi%20Anees,">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  📧 ahmedanees430@gmail.com
 </p>
 
 ---
@@ -39,17 +43,22 @@
 ---
 
 ## 🚀 Featured Projects
-- 🔹 **Contact Book Management System**  
-  BST-based system for efficient contact storage and retrieval  
 
-- 🔹 **Railway Management System (SRS)**  
-  Complete system design based on real-world analysis  
+### 🔹 Contact Book Management System
+- BST-based system for efficient contact storage and retrieval  
+- Implemented core data structure operations (insert, search, delete)  
 
-- 🔹 **Smart Home Essentials UI**  
-  Modern UI/UX prototype designed in Figma  
+### 🔹 Railway Management System (SRS)
+- Designed complete system based on real-world railway operations  
+- Created structured Software Requirements Specification  
 
-- 🔹 **Frontend Web Applications**  
-  Built using React, TypeScript, and Tailwind CSS  
+### 🔹 Smart Home Essentials UI
+- Modern UI/UX prototype designed in Figma  
+- Focused on usability and clean interface design  
+
+### 🔹 Frontend Web Applications
+- Built responsive web apps using React, TypeScript, and Tailwind CSS  
+- Focused on performance, scalability, and clean UI  
 
 ---
 
